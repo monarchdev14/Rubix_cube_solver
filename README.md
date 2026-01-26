@@ -100,8 +100,5 @@ Integrate voice or sound feedback
 
 Optimize solver for faster results
 
-📜 License
-Licensed under the MIT License — feel free to modify and use this project.
-
 ⭐ If you like this project, don’t forget to star the repo!
 Added detailed README.md with features and setup instructions
